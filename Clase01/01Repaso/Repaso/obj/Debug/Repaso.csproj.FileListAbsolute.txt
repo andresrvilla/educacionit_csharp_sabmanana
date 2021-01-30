@@ -1,0 +1,7 @@
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Repaso\Repaso\bin\Debug\Repaso.exe.config
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Repaso\Repaso\bin\Debug\Repaso.exe
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Repaso\Repaso\bin\Debug\Repaso.pdb
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Repaso\Repaso\obj\Debug\Repaso.csprojAssemblyReference.cache
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Repaso\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Repaso\Repaso\obj\Debug\Repaso.exe
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Repaso\Repaso\obj\Debug\Repaso.pdb

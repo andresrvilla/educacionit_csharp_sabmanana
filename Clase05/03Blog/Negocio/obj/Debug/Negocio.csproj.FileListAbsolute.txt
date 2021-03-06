@@ -1,0 +1,11 @@
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\bin\Debug\Negocio.dll
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\bin\Debug\Negocio.pdb
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\bin\Debug\Datos.dll
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\bin\Debug\Entidades.dll
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\bin\Debug\Datos.pdb
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\bin\Debug\Entidades.pdb
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\obj\Debug\Negocio.dll
+D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Negocio\obj\Debug\Negocio.pdb

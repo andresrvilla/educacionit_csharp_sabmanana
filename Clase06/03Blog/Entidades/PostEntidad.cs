@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Post
+    public class PostEntidad
     {
         public int Id { get; set; }
 

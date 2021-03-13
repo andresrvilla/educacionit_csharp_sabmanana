@@ -11,9 +11,14 @@ namespace Negocio
     public class PostNegocio
     {
         private readonly PostDatos postDatos = new PostDatos();
-        public List<Post> TodosLosPosts()
+        public List<PostEntidad> TodosLosPosts()
         {
             return postDatos.TodosLosPosts();
+        }
+
+        public PostEntidad ObtenerPost(int idPost)
+        {
+            return postDatos.ObtenerPost(idPost);
         }
     }
 }

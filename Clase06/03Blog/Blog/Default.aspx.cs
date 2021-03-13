@@ -15,7 +15,7 @@ namespace Blog
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            List<Post> todosLosPost = negocio.TodosLosPosts();
+            List<PostEntidad> todosLosPost = negocio.TodosLosPosts();
             lstPosteos.DataSource = todosLosPost;
             lstPosteos.DataBind();
         }

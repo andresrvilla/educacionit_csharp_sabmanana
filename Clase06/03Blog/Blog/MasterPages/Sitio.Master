@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Sitio.master.cs" Inherits="Blog.MasterPages.Sitio" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title></title>
+    <link rel="Stylesheet" href="<%=Page.ResolveUrl("~/Content/bootstrap.min.css") %>" />
+    <script src="<%=Page.ResolveUrl("~/Scripts/jquery-3.0.0.slim.min.js") %>"></script>
+    <script src="<%=Page.ResolveUrl("~/Scripts/bootstrap.bundle.min.js") %>"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+          <%--<a class="navbar-brand" href="Default.aspx">Blog</a>--%>
+            <asp:HyperLink runat="server" CssClass="navbar-brand" NavigateUrl="~/Default.aspx">
+                <asp:Label runat="server" ID="lblMarca"></asp:Label>
+            </asp:HyperLink>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Ayuda
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="<%=Page.ResolveUrl("~/Ayuda/Contacto.aspx") %>">Contactenos</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="<%=Page.ResolveUrl("~/Ayuda/AcercaDe/Default.aspx") %>">Acerca De</a>
+                </div>
+              </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownContador" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Contadores
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownContador">
+                  <a class="dropdown-item" href="<%=Page.ResolveUrl("~/Contadores/ContadorViewState.aspx") %>">Por View State</a>
+                    <a class="dropdown-item" href="<%=Page.ResolveUrl("~/Contadores/ContadorElementosServidor.aspx") %>">Con Etiquetas Servidor</a>
+                    <a class="dropdown-item" href="<%=Page.ResolveUrl("~/Contadores/ContadorSesion.aspx") %>">Por sesión</a>
+                    <a class="dropdown-item" href="<%=Page.ResolveUrl("~/Contadores/ContadorAplicacion.aspx") %>">Por aplicación</a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </nav>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h1><asp:label runat="server" ID="lblMarcaTitulo"></asp:label></h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-4">
+                    Menu
+                </div>
+                <div class="col-md-7 col-8">                    
+                    <asp:ContentPlaceHolder ID="contenidoPrincipal" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div class="col-md-2 d-none d-md-block">
+                    Publicidad
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6 offset-md-3">
+                    Ultimo uso: <asp:Label runat="server" ID="lblUltimoUso"></asp:Label>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

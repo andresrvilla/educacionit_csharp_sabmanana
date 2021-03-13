@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -25,6 +26,41 @@ namespace Datos
             {
                 SqlCommand comando = new SqlCommand("SELECT Id, Nombre FROM Categorias", conexion);
                 conexion.Open();
+                using (SqlDataReader reader = comando.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        CategoriaEntidad categoria = new CategoriaEntidad()
+                        {
+                            Id = reader.GetInt32(0),
+                            Nombre = reader.GetString(1)
+                        };
+                        resultado.Add(categoria);
+                    }
+                }
+            }
+            return resultado;
+        }
+
+        public List<CategoriaEntidad> TodasLasCategoriasStoredProcedure()
+        {
+            List<CategoriaEntidad> resultado = new List<CategoriaEntidad>();
+            using (SqlConnection conexion = new SqlConnection(cadenaDeConexion))
+            {
+                SqlCommand comando = new SqlCommand("SP_Categorias", conexion);
+                comando.CommandType = CommandType.StoredProcedure;
+
+                /*
+                 * Estos parametros son simplemente para ver como se configuran
+                 * No afectan en nada el resultado del stored procedure
+                 * No se usan en la consulta
+                 */
+                SqlParameter parametroNumerico = new SqlParameter("@ParametroNumerico", 100);
+                comando.Parameters.Add(parametroNumerico);
+
+                comando.Parameters.AddWithValue("@ParametroTexto", "Cualquier cosa");
+                conexion.Open();
+
                 using (SqlDataReader reader = comando.ExecuteReader())
                 {
                     while (reader.Read())

@@ -1,7 +1,0 @@
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\01Colecciones\Colecciones\bin\Debug\Colecciones.exe.config
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\01Colecciones\Colecciones\bin\Debug\Colecciones.exe
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\01Colecciones\Colecciones\bin\Debug\Colecciones.pdb
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\01Colecciones\Colecciones\obj\Debug\Colecciones.csprojAssemblyReference.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\01Colecciones\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\01Colecciones\Colecciones\obj\Debug\Colecciones.exe
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\01Colecciones\Colecciones\obj\Debug\Colecciones.pdb

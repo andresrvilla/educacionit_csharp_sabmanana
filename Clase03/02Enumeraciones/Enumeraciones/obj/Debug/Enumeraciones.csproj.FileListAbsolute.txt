@@ -1,7 +1,0 @@
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\02Enumeraciones\Enumeraciones\bin\Debug\Enumeraciones.exe.config
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\02Enumeraciones\Enumeraciones\bin\Debug\Enumeraciones.exe
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\02Enumeraciones\Enumeraciones\bin\Debug\Enumeraciones.pdb
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\02Enumeraciones\Enumeraciones\obj\Debug\Enumeraciones.csprojAssemblyReference.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\02Enumeraciones\Enumeraciones\obj\Debug\Enumeraciones.csproj.CoreCompileInputs.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\02Enumeraciones\Enumeraciones\obj\Debug\Enumeraciones.exe
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase03\02Enumeraciones\Enumeraciones\obj\Debug\Enumeraciones.pdb

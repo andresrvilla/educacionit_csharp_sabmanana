@@ -1,9 +1,0 @@
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Datos\bin\Debug\Datos.dll
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Datos\bin\Debug\Datos.pdb
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Datos\bin\Debug\Entidades.dll
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Datos\bin\Debug\Entidades.pdb
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Datos\obj\Debug\Datos.csproj.CopyComplete
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Datos\obj\Debug\Datos.dll
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase05\03Blog\Datos\obj\Debug\Datos.pdb

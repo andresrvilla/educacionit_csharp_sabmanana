@@ -1,7 +1,0 @@
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\02EstructurasDeControl\EstructurasDeControl\bin\Debug\EstructurasDeControl.exe.config
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\02EstructurasDeControl\EstructurasDeControl\bin\Debug\EstructurasDeControl.exe
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\02EstructurasDeControl\EstructurasDeControl\bin\Debug\EstructurasDeControl.pdb
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\02EstructurasDeControl\EstructurasDeControl\obj\Debug\EstructurasDeControl.csprojAssemblyReference.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\02EstructurasDeControl\EstructurasDeControl\obj\Debug\EstructurasDeControl.csproj.CoreCompileInputs.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\02EstructurasDeControl\EstructurasDeControl\obj\Debug\EstructurasDeControl.exe
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\02EstructurasDeControl\EstructurasDeControl\obj\Debug\EstructurasDeControl.pdb

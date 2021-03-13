@@ -1,6 +1,0 @@
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase02\02FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.dll
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase02\02FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase02\02FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojAssemblyReference.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase02\02FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase02\02FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.dll
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase02\02FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb

@@ -1,6 +1,0 @@
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Funciones\Funciones\bin\Debug\Funciones.exe.config
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Funciones\Funciones\bin\Debug\Funciones.exe
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Funciones\Funciones\bin\Debug\Funciones.pdb
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Funciones\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Funciones\Funciones\obj\Debug\Funciones.exe
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\01Funciones\Funciones\obj\Debug\Funciones.pdb

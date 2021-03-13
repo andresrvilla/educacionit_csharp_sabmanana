@@ -1,7 +1,0 @@
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\04POO\04POO\bin\Debug\04POO.exe.config
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\04POO\04POO\bin\Debug\04POO.exe
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\04POO\04POO\bin\Debug\04POO.pdb
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\04POO\04POO\obj\Debug\04POO.csprojAssemblyReference.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\04POO\04POO\obj\Debug\04POO.csproj.CoreCompileInputs.cache
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\04POO\04POO\obj\Debug\04POO.exe
-D:\EducacionIT\Desktop\educacionit_csharp_sabmanana\Clase01\04POO\04POO\obj\Debug\04POO.pdb
